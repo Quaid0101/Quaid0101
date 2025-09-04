@@ -1,9 +1,9 @@
-# Hi there, I'm Q 👋
+# Hi there, I'm Quaid 👋
 
 🎓 Software Engineering student (graduating soon)  
 💻 Passionate about backend development (Java / Spring Boot / MySQL)  
 🚀 Currently working on: [Sky Take Out](https://github.com/Quaid0101/sky-take-out)  
-📫 How to reach me: your.email@example.com  
+📫 How to reach me: quaid0101@outlook.com  
 
 ---
 
@@ -35,10 +35,8 @@
 
 ---
 
-## 🐍 Contribution Graph
 
-![Snake animation](https://github.com/Quaid0101/Quaid0101/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-⭐️ From [Q](https://github.com/Quaid0101)
+⭐️ From [Quaid](https://github.com/Quaid0101)
