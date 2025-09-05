@@ -30,3 +30,10 @@
 ---
 
 ⭐️ From [Quaid](https://github.com/Quaid0101)
+</div>
+
+---
+
+![头像](image/头像.jpg)
+
+![Visitor Count](https://profile-counter.glitch.me/Quaid0101/count.svg)
