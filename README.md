@@ -1,5 +1,6 @@
 # Hi there, I'm Quaid 👋
 
+<img src="https://avatars.githubusercontent.com/你的用户名" width="150" style="border-radius:50%" align="center" />
 🎓 Software Engineering student (graduating soon)  
 💻 Passionate about backend development (Java / Spring Boot / MySQL)  
 📫 How to reach me: quaid0101@outlook.com  
@@ -30,10 +31,4 @@
 ---
 
 ⭐️ From [Quaid](https://github.com/Quaid0101)
-</div>
 
----
-
-![头像](image/头像.jpg)
-
-![Visitor Count](https://profile-counter.glitch.me/Quaid0101/count.svg)
