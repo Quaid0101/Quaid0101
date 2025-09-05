@@ -14,16 +14,17 @@
 ![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+---
+<img src="https://avatars.githubusercontent.com/你的用户名" width="100%" />
 
-
-
+---
 ## 📊 GitHub Stats
 
 ![Q's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quaid0101&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quaid0101&layout=compact&theme=radical)
 
----
+
 
 
 
