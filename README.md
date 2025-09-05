@@ -10,12 +10,11 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Quaid0101&show_icons=true&theme=radical" alt="GitHub Stats" width="100%"/><br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quaid0101&layout=compact&theme=radical" alt="Top Langs" width="100%"/>
     </td>
-    
-    <!-- 右侧：Banner -->
+  </tr>
+      <!-- 右侧：Banner -->
     <td width="55%" align="center">
       <img src="https://raw.githubusercontent.com/Quaid0101/Quaid0101/main/banner.png" alt="Banner" width="90%"/>
     </td>
-  </tr>
 </table>
 
 
