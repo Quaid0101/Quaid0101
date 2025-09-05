@@ -1,5 +1,5 @@
 # Quaid 🎶🤓
-![header](https://raw.githubusercontent.com/Quaid0101/Quaid0101/main/banner.jpg)
+![header](https://raw.githubusercontent.com/Quaid0101/Quaid0101/main/banner_wide.jpg)
 
 ---
 📫 How to reach me: quaid0101@outlook.com  
