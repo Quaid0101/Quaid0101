@@ -2,7 +2,6 @@
 
 🎓 Software Engineering student (graduating soon)  
 💻 Passionate about backend development (Java / Spring Boot / MySQL)  
-🚀 Currently working on: [Sky Take Out](https://github.com/Quaid0101/sky-take-out)  
 📫 How to reach me: quaid0101@outlook.com  
 
 ---
@@ -16,16 +15,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
 
-## 📌 Featured Projects
-
-
-
-- [Another Project](https://github.com/Quaid0101/xxx)  
-  ✨ 简单一句话描述，让人知道这是干啥的
-
----
 
 ## 📊 GitHub Stats
 
