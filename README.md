@@ -1,4 +1,4 @@
-# ☆*: .｡. o(≧▽≦)o .｡.:*☆ Quaid ☆*: .｡. o(≧▽≦)o .｡.:*☆
+# ☆*: .｡. o(≧▽≦)o .｡.:*☆          Quaid       ☆*: .｡. o(≧▽≦)o .｡.:*☆
 ![header](https://raw.githubusercontent.com/Quaid0101/Quaid0101/main/banner_wide.jpg)
 
 ---
