@@ -6,16 +6,8 @@
 
 ---
 
-## 🛠️ Tech Stack
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Quaid%20-%20Software%20Engineer&fontSize=40&desc=Java%20%7C%20SpringBoot%20%7C%20MySQL&descSize=20&descAlign=50&descAlignY=70)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
----
-<img src="https://avatars.githubusercontent.com/Quaid0101" width="100%" />
 
 ---
 ## 📊 GitHub Stats
