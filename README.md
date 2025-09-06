@@ -1,6 +1,6 @@
 # ☆*: .｡. o(≧▽≦)o .｡.:*☆_____Quaid______☆*: .｡. o(≧▽≦)o .｡.:*☆
-![header](https://raw.githubusercontent.com/Quaid0101/Quaid0101/main/bannner_1.jpg)
-![header](https://raw.githubusercontent.com/Quaid0101/Quaid0101/main/banner_2.jpg)
+![header](https://raw.githubusercontent.com/Quaid0101/Quaid0101/main/banner_f.jpg)
+
 
 ---
 📫 How to reach me: quaid0101@outlook.com  
